@@ -5,9 +5,9 @@ document.addEventListener('DOMContentLoaded', () => {
   
   const usersDatabase = [
     {
-      username: '1',
-      password: '1',
-      userCode: '1'
+      username: 'exampleUser',
+      password: 'Example1234',
+      userCode: '1234'
     }
   ];
   
