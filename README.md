@@ -1,1 +1,1 @@
-#Only javascript files will be here👨‍💻
+#Only javascript files will be here
