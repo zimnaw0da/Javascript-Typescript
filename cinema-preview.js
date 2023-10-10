@@ -47,5 +47,4 @@ function BuyTicket() {
 }
 BuyTicket();
 
-//you can set this in an app or website but you must convert code to other 
-
+//you can set this in an app or website but you must convert code to other programming language
