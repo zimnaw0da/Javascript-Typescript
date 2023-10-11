@@ -5,9 +5,9 @@ document.addEventListener('DOMContentLoaded', () => {
   
   const usersDatabase = [
     {
-      username: 'exampleUser',
-      password: 'Example1234', // its only example you can set your own value
-      userCode: '1234'
+      // username: 'exampleUser',
+      // password: 'Example1234', // its only example you can set your own value
+      // userCode: '1234'
     }
   ];
   
