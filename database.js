@@ -29,4 +29,6 @@ document.addEventListener('DOMContentLoaded', () => {
       alert('Invalid signup data. Please try again.');
     }
   }
-  
+
+
+   //you can use this in website for example database
