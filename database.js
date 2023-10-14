@@ -5,9 +5,9 @@ document.addEventListener('DOMContentLoaded', () => {
   
   const usersDatabase = [
     {
-      username: 'exampleUser',
-      password: 'Example1234',
-      userCode: '1234'
+      // username: 'exampleUser',
+      // password: 'Example1234', // its only example you can set your own value
+      // userCode: '1234'
     }
   ];
   
@@ -29,4 +29,6 @@ document.addEventListener('DOMContentLoaded', () => {
       alert('Invalid signup data. Please try again.');
     }
   }
-  
+
+
+   //you can use this in website for example database

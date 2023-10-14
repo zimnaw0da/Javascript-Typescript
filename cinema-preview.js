@@ -1,8 +1,8 @@
 function CheckMovieEligibility(movie) {
     var movies = {
-        "film1": {"required_age": 15, "price": 30},
-        "film2": {"required_age": 12, "price": 25},
-        "film3": {"required_age": 18, "price": 40},
+        "film1": {"required_age": "example 28 ", "price": 30},
+        "film2": {"required_age": "example 16", "price": 25}, // you can set your own ticket price, age and film name
+        "film3": {"required_age": "example 13", "price": 40},
     };
     
     if (movie in movies) {
@@ -46,3 +46,5 @@ function BuyTicket() {
     }
 }
 BuyTicket();
+
+//you can set this in an app or website but you must convert code to other programming language
