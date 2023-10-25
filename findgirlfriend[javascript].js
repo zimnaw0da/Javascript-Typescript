@@ -33,13 +33,16 @@ else if (question === "No") {
     time.sleep(4);
 
     //process with time.sleep(4)
-    console.log(Fore.WHITE + "[|] 1/3 deleting memories...");
+    console.log(Fore.WHITE + "[|] 1/4 deleting memories...");
     time.sleep(4);
 
-    console.log(Fore.WHITE + "[||] 2/3 deleting feelings...");
+    console.log(Fore.WHITE + "[||] 2/4 deleting feelings...");
     time.sleep(4);
 
-    console.log(Fore.WHITE + "[|||] 3/3 deleting her life...");
+    console.log(Fore.WHITE + "[|||] 3/4 deleting her life...");
+    time.sleep(4);
+
+    console.log(Fore.WHITE + "[||||] 4/4 rebooting brain...");
     time.sleep(3);
 
     console.log(Fore.LIGHTRED_EX + "Process completed successfully!");
